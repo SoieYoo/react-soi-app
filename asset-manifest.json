@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-soi-app/static/js/main.692a89a6.js",
+    "main.js": "/react-soi-app/static/js/main.e4aa311e.js",
     "index.html": "/react-soi-app/index.html",
-    "main.692a89a6.js.map": "/react-soi-app/static/js/main.692a89a6.js.map"
+    "main.e4aa311e.js.map": "/react-soi-app/static/js/main.e4aa311e.js.map"
   },
   "entrypoints": [
-    "static/js/main.692a89a6.js"
+    "static/js/main.e4aa311e.js"
   ]
 }
